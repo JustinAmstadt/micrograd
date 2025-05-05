@@ -1,0 +1,1 @@
+https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd
